@@ -1,0 +1,24 @@
+Automation Framework
+-Java + selenium + TestNG + Maven + Page Object Model design pattern
+
+1. Create a Maven project
+   - Add all the dependencies in the pom.xml file
+   
+2. Create a folder structure
+   - pageObjects
+   - testbase
+   - testcases
+   - Utilities
+   - logs
+   - screenshots
+   - reports
+   - testdata
+   
+3. Create a Parent basePage with constructor under pageObjects package
+   Create page object class for each webpage under pageObjects package which will extend basePage
+   Create Accountregistration test case class under testcases packages
+   Create randomStringUtils method to create random data for user registration
+   Create a baseclass for reusable methods for all other test cases classes
+   
+4. Added log4j2.xml file in 
+   

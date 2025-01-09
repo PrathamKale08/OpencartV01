@@ -1,0 +1,13 @@
+testCases\TC003_AccountRegistrationTest_UsingRandomUserData.class
+testCases\TC004_LoginTest.class
+pageObjects\MyaccountPage.class
+pageObjects\HomePage.class
+testCases\TC002_AccountRegistrationTest_Usingalreadyexistingusercredentials.class
+pageObjects\RegisterAccountPage.class
+testBase\BaseClass.class
+testCases\TC005_LoginTest_DataProvider.class
+pageObjects\AccountlogoutPage.class
+testCases\TC001_AccountRegistrationTest.class
+pageObjects\LoginPage.class
+pageObjects\BasePage.class
+utilities\ExtentReportManager.class

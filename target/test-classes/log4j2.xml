@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Configuration status="WARN" xmlns="http://logging.apache.org/log4j/2.0/config">
+
+  <Properties>
+    <Property name="basePath">C:\Automation\Pratham Workspace\OpencartV01\logs</Property>
+  </Properties>
+
+  <Appenders>
+    <Console name="Console" target="SYSTEM_OUT">
+      <PatternLayout pattern="%d{HH.mm.ss.SSSS} [%t] %-5level %logger{36} - %msg%n"/>
+    </Console>
+
+    <RollingFile name="File" fileName="${basePath}/automation.log" filePattern="${basePath}/automation-%d{yyyy-MM-dd}.log">
+      <PatternLayout pattern="%d{HH.mm.ss.SSSS} [%t] %-5level %logger{36} - %msg%n"/>
+      <Policies>
+        <SizeBasedTriggeringPolicy size="5MB"/>
+      </Policies>
+    </RollingFile>
+  </Appenders>
+
+  <Loggers>
+    <Root level="debug">
+      <AppenderRef ref="File"/>
+      <AppenderRef ref="Console"/>
+    </Root>
+  </Loggers>
+
+</Configuration>

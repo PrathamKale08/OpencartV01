@@ -1,0 +1,12 @@
+17.20.46.0962 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** TC001_AccountRegistrationTest execution started ***********
+17.20.47.0273 [main] INFO  testCases.TC001_AccountRegistrationTest - CLICKED ON MY ACCOUNT LINK
+17.20.48.0254 [main] INFO  testCases.TC001_AccountRegistrationTest - CLICKED ON REGISTER LINK
+17.20.48.0258 [main] INFO  testCases.TC001_AccountRegistrationTest - ADDING USER DETAILS
+17.20.50.0504 [main] INFO  testCases.TC001_AccountRegistrationTest - USER DETAILS ADDED
+17.20.50.0507 [main] INFO  testCases.TC001_AccountRegistrationTest - PERFORMING VALIDATION OF ACCOUNT CREATION
+17.23.00.0658 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** TC001_AccountRegistrationTest execution started ***********
+17.23.03.0590 [main] INFO  testCases.TC001_AccountRegistrationTest - CLICKED ON MY ACCOUNT LINK
+17.23.07.0348 [main] INFO  testCases.TC001_AccountRegistrationTest - CLICKED ON REGISTER LINK
+17.23.07.0380 [main] INFO  testCases.TC001_AccountRegistrationTest - ADDING USER DETAILS
+17.23.13.0051 [main] INFO  testCases.TC001_AccountRegistrationTest - USER DETAILS ADDED
+17.23.13.0052 [main] INFO  testCases.TC001_AccountRegistrationTest - PERFORMING VALIDATION OF ACCOUNT CREATION

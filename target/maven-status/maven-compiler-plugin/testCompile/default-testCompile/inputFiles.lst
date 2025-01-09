@@ -1,0 +1,13 @@
+C:\Automation\Pratham Workspace\OpencartV01\src\test\java\pageObjects\AccountlogoutPage.java
+C:\Automation\Pratham Workspace\OpencartV01\src\test\java\pageObjects\BasePage.java
+C:\Automation\Pratham Workspace\OpencartV01\src\test\java\pageObjects\HomePage.java
+C:\Automation\Pratham Workspace\OpencartV01\src\test\java\pageObjects\LoginPage.java
+C:\Automation\Pratham Workspace\OpencartV01\src\test\java\pageObjects\MyaccountPage.java
+C:\Automation\Pratham Workspace\OpencartV01\src\test\java\pageObjects\RegisterAccountPage.java
+C:\Automation\Pratham Workspace\OpencartV01\src\test\java\testBase\BaseClass.java
+C:\Automation\Pratham Workspace\OpencartV01\src\test\java\testCases\TC001_AccountRegistrationTest.java
+C:\Automation\Pratham Workspace\OpencartV01\src\test\java\testCases\TC002_AccountRegistrationTest_Usingalreadyexistingusercredentials.java
+C:\Automation\Pratham Workspace\OpencartV01\src\test\java\testCases\TC003_AccountRegistrationTest_UsingRandomUserData.java
+C:\Automation\Pratham Workspace\OpencartV01\src\test\java\testCases\TC004_LoginTest.java
+C:\Automation\Pratham Workspace\OpencartV01\src\test\java\testCases\TC005_LoginTest_DataProvider.java
+C:\Automation\Pratham Workspace\OpencartV01\src\test\java\utilities\ExtentReportManager.java

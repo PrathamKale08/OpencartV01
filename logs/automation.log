@@ -1,0 +1,822 @@
+17.27.24.0316 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** TC001_AccountRegistrationTest execution started ***********
+17.27.31.0339 [main] INFO  testCases.TC001_AccountRegistrationTest - CLICKED ON MY ACCOUNT LINK
+17.27.35.0103 [main] INFO  testCases.TC001_AccountRegistrationTest - CLICKED ON REGISTER LINK
+17.27.35.0113 [main] INFO  testCases.TC001_AccountRegistrationTest - ADDING USER DETAILS
+17.27.41.0537 [main] INFO  testCases.TC001_AccountRegistrationTest - USER DETAILS ADDED
+17.27.41.0546 [main] INFO  testCases.TC001_AccountRegistrationTest - PERFORMING VALIDATION OF ACCOUNT CREATION
+17.28.50.0296 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** TC001_AccountRegistrationTest execution started ***********
+17.28.50.0706 [main] INFO  testCases.TC001_AccountRegistrationTest - CLICKED ON MY ACCOUNT LINK
+17.28.51.0733 [main] INFO  testCases.TC001_AccountRegistrationTest - CLICKED ON REGISTER LINK
+17.28.51.0745 [main] INFO  testCases.TC001_AccountRegistrationTest - ADDING USER DETAILS
+17.28.54.0530 [main] INFO  testCases.TC001_AccountRegistrationTest - USER DETAILS ADDED
+17.28.54.0530 [main] INFO  testCases.TC001_AccountRegistrationTest - PERFORMING VALIDATION OF ACCOUNT CREATION
+17.42.54.0606 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** TC001_AccountRegistrationTest execution started ***********
+17.42.57.0920 [main] INFO  testCases.TC001_AccountRegistrationTest - CLICKED ON MY ACCOUNT LINK
+17.43.00.0631 [main] INFO  testCases.TC001_AccountRegistrationTest - CLICKED ON REGISTER LINK
+17.43.00.0657 [main] INFO  testCases.TC001_AccountRegistrationTest - ADDING USER DETAILS
+17.43.06.0718 [main] INFO  testCases.TC001_AccountRegistrationTest - USER DETAILS ADDED
+17.43.06.0718 [main] INFO  testCases.TC001_AccountRegistrationTest - PERFORMING VALIDATION OF ACCOUNT CREATION
+17.43.50.0836 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** TC001_AccountRegistrationTest execution started ***********
+17.43.51.0364 [main] INFO  testCases.TC001_AccountRegistrationTest - CLICKED ON MY ACCOUNT LINK
+17.43.52.0596 [main] INFO  testCases.TC001_AccountRegistrationTest - CLICKED ON REGISTER LINK
+17.43.52.0606 [main] INFO  testCases.TC001_AccountRegistrationTest - ADDING USER DETAILS
+17.43.56.0113 [main] INFO  testCases.TC001_AccountRegistrationTest - USER DETAILS ADDED
+17.43.56.0114 [main] INFO  testCases.TC001_AccountRegistrationTest - PERFORMING VALIDATION OF ACCOUNT CREATION
+17.44.06.0393 [main] ERROR testCases.TC001_AccountRegistrationTest - test case failed
+17.45.08.0928 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** TC001_AccountRegistrationTest execution started ***********
+17.45.10.0089 [main] INFO  testCases.TC001_AccountRegistrationTest - CLICKED ON MY ACCOUNT LINK
+17.45.11.0155 [main] INFO  testCases.TC001_AccountRegistrationTest - CLICKED ON REGISTER LINK
+17.45.11.0162 [main] INFO  testCases.TC001_AccountRegistrationTest - ADDING USER DETAILS
+17.45.15.0219 [main] INFO  testCases.TC001_AccountRegistrationTest - USER DETAILS ADDED
+17.45.15.0224 [main] INFO  testCases.TC001_AccountRegistrationTest - PERFORMING VALIDATION OF ACCOUNT CREATION
+17.45.15.0734 [main] ERROR testCases.TC001_AccountRegistrationTest - test case failed
+17.45.15.0735 [main] DEBUG testCases.TC001_AccountRegistrationTest - debug logs
+17.46.35.0271 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** TC001_AccountRegistrationTest execution started ***********
+17.46.35.0586 [main] INFO  testCases.TC001_AccountRegistrationTest - CLICKED ON MY ACCOUNT LINK
+17.46.36.0509 [main] INFO  testCases.TC001_AccountRegistrationTest - CLICKED ON REGISTER LINK
+17.46.36.0533 [main] INFO  testCases.TC001_AccountRegistrationTest - ADDING USER DETAILS
+17.46.38.0878 [main] INFO  testCases.TC001_AccountRegistrationTest - USER DETAILS ADDED
+17.46.38.0879 [main] INFO  testCases.TC001_AccountRegistrationTest - PERFORMING VALIDATION OF ACCOUNT CREATION
+17.46.39.0064 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** TC001_AccountRegistrationTest execution finished ***********
+18.13.32.0996 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** TC001_AccountRegistrationTest execution started ***********
+18.13.33.0258 [main] INFO  testCases.TC001_AccountRegistrationTest - CLICKED ON MY ACCOUNT LINK
+18.13.37.0197 [main] INFO  testCases.TC001_AccountRegistrationTest - CLICKED ON REGISTER LINK
+18.13.37.0201 [main] INFO  testCases.TC001_AccountRegistrationTest - ADDING USER DETAILS
+18.13.46.0453 [main] INFO  testCases.TC001_AccountRegistrationTest - USER DETAILS ADDED
+18.13.46.0454 [main] INFO  testCases.TC001_AccountRegistrationTest - PERFORMING VALIDATION OF ACCOUNT CREATION
+18.13.56.0542 [main] ERROR testCases.TC001_AccountRegistrationTest - test case failed
+18.13.56.0543 [main] DEBUG testCases.TC001_AccountRegistrationTest - debug logs
+18.24.35.0161 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** TC001_AccountRegistrationTest execution started ***********
+18.24.35.0824 [main] INFO  testCases.TC001_AccountRegistrationTest - CLICKED ON MY ACCOUNT LINK
+18.24.37.0104 [main] INFO  testCases.TC001_AccountRegistrationTest - CLICKED ON REGISTER LINK
+18.24.37.0140 [main] INFO  testCases.TC001_AccountRegistrationTest - ADDING USER DETAILS
+18.24.42.0009 [main] INFO  testCases.TC001_AccountRegistrationTest - USER DETAILS ADDED
+18.24.42.0010 [main] INFO  testCases.TC001_AccountRegistrationTest - PERFORMING VALIDATION OF ACCOUNT CREATION
+18.24.52.0124 [main] ERROR testCases.TC001_AccountRegistrationTest - test case failed
+18.24.52.0125 [main] DEBUG testCases.TC001_AccountRegistrationTest - debug logs
+18.26.13.0457 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** TC001_AccountRegistrationTest execution started ***********
+18.26.19.0575 [main] INFO  testCases.TC001_AccountRegistrationTest - CLICKED ON MY ACCOUNT LINK
+18.26.26.0813 [main] INFO  testCases.TC001_AccountRegistrationTest - CLICKED ON REGISTER LINK
+18.26.26.0817 [main] INFO  testCases.TC001_AccountRegistrationTest - ADDING USER DETAILS
+18.26.34.0661 [main] INFO  testCases.TC001_AccountRegistrationTest - USER DETAILS ADDED
+18.26.34.0662 [main] INFO  testCases.TC001_AccountRegistrationTest - PERFORMING VALIDATION OF ACCOUNT CREATION
+18.26.44.0752 [main] ERROR testCases.TC001_AccountRegistrationTest - test case failed
+18.26.44.0752 [main] DEBUG testCases.TC001_AccountRegistrationTest - debug logs
+18.32.10.0965 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - *********** TC001_AccountRegistrationTest execution started ***********
+18.32.29.0919 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - CLICKED ON MY ACCOUNT LINK
+18.32.41.0203 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - CLICKED ON REGISTER LINK
+18.32.41.0235 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ADDING USER DETAILS
+18.33.11.0014 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - *********** TC001_AccountRegistrationTest execution started ***********
+18.33.11.0140 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - USER DETAILS ADDED
+18.33.11.0141 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - PERFORMING VALIDATION OF ACCOUNT CREATION
+18.33.12.0965 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - *********** TC001_AccountRegistrationTest execution finished ***********
+18.33.19.0110 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - CLICKED ON MY ACCOUNT LINK
+18.33.24.0735 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - CLICKED ON REGISTER LINK
+18.33.24.0739 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ADDING USER DETAILS
+18.33.33.0612 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - USER DETAILS ADDED
+18.33.33.0613 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - PERFORMING VALIDATION OF ACCOUNT CREATION
+18.33.43.0815 [TestNG-tests-2] ERROR testCases.TC001_AccountRegistrationTest - test case failed
+18.33.43.0815 [TestNG-tests-2] DEBUG testCases.TC001_AccountRegistrationTest - debug logs
+18.53.36.0747 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** TC001_AccountRegistrationTest execution started ***********
+18.53.37.0134 [main] INFO  testCases.TC001_AccountRegistrationTest - CLICKED ON MY ACCOUNT LINK
+18.53.38.0704 [main] INFO  testCases.TC001_AccountRegistrationTest - CLICKED ON REGISTER LINK
+18.53.38.0713 [main] INFO  testCases.TC001_AccountRegistrationTest - ADDING USER DETAILS
+18.53.41.0456 [main] INFO  testCases.TC001_AccountRegistrationTest - USER DETAILS ADDED
+18.53.41.0457 [main] INFO  testCases.TC001_AccountRegistrationTest - PERFORMING VALIDATION OF ACCOUNT CREATION
+18.53.51.0637 [main] ERROR testCases.TC001_AccountRegistrationTest - test case failed
+18.53.51.0637 [main] DEBUG testCases.TC001_AccountRegistrationTest - debug logs
+16.59.05.0284 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\Pratham Workspace\OpencartV01\Master.xml"
+16.59.08.0855 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\Pratham Workspace\OpencartV01\Master.xml
+
+17.01.23.0359 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\Pratham Workspace\OpencartV01\Master.xml"
+17.01.24.0098 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\Pratham Workspace\OpencartV01\Master.xml
+
+17.04.36.0933 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\Pratham Workspace\OpencartV01\Master.xml"
+17.04.37.0484 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\Pratham Workspace\OpencartV01\Master.xml
+
+17.05.10.0908 [main] INFO  testCases.TC004_LoginTest - TC004_LoginTest verification started
+17.06.09.0287 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\Pratham Workspace\OpencartV01\Master.xml"
+17.06.09.0828 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\Pratham Workspace\OpencartV01\Master.xml
+
+17.06.24.0402 [main] INFO  testCases.TC004_LoginTest - TC004_LoginTest verification started
+17.10.30.0430 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\Pratham Workspace\OpencartV01\Master.xml"
+17.10.30.0973 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\Pratham Workspace\OpencartV01\Master.xml
+
+17.13.03.0145 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\Pratham Workspace\OpencartV01\Master.xml"
+17.13.03.0678 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\Pratham Workspace\OpencartV01\Master.xml
+
+17.13.26.0598 [main] INFO  testCases.TC004_LoginTest - TC004_LoginTest verification started
+17.13.35.0388 [main] ERROR testCases.TC004_LoginTest - Test case failed: Cannot invoke "java.util.Properties.getProperty(String)" because "this.p" is null
+java.lang.NullPointerException: Cannot invoke "java.util.Properties.getProperty(String)" because "this.p" is null
+	at testCases.TC004_LoginTest.verifytestlogin_validcredentials(TC004_LoginTest.java:27) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[testng-7.10.2.jar:7.10.2]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:739) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestRunner.run(TestRunner.java:614) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.run(TestNG.java:1079) [testng-7.10.2.jar:7.10.2]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91) [testng-remote.jar:?]
+17.21.04.0625 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\Pratham Workspace\OpencartV01\Master.xml"
+17.21.05.0192 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\Pratham Workspace\OpencartV01\Master.xml
+
+17.21.35.0732 [main] INFO  testCases.TC004_LoginTest - TC004_LoginTest verification started
+17.21.46.0275 [main] INFO  testCases.TC004_LoginTest - Home page actions completed
+17.21.46.0338 [main] ERROR testCases.TC004_LoginTest - Test case failed: Cannot invoke "java.util.Properties.getProperty(String)" because "this.p" is null
+java.lang.NullPointerException: Cannot invoke "java.util.Properties.getProperty(String)" because "this.p" is null
+	at testCases.TC004_LoginTest.verifytestlogin_validcredentials(TC004_LoginTest.java:27) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[testng-7.10.2.jar:7.10.2]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:739) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestRunner.run(TestRunner.java:614) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.run(TestNG.java:1079) [testng-7.10.2.jar:7.10.2]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91) [testng-remote.jar:?]
+17.30.41.0797 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\Pratham Workspace\OpencartV01\Master.xml"
+17.30.42.0403 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\Pratham Workspace\OpencartV01\Master.xml
+
+17.32.07.0328 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\Pratham Workspace\OpencartV01\Master.xml"
+17.32.07.0896 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\Pratham Workspace\OpencartV01\Master.xml
+
+17.32.35.0641 [main] INFO  testCases.TC004_LoginTest - TC004_LoginTest verification started
+17.32.43.0812 [main] INFO  testCases.TC004_LoginTest - Home page actions completed
+17.32.43.0848 [main] ERROR testCases.TC004_LoginTest - Test case failed: Cannot invoke "java.util.Properties.getProperty(String)" because "this.p" is null
+java.lang.NullPointerException: Cannot invoke "java.util.Properties.getProperty(String)" because "this.p" is null
+	at testCases.TC004_LoginTest.verifytestlogin_validcredentials(TC004_LoginTest.java:27) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[testng-7.10.2.jar:7.10.2]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:739) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestRunner.run(TestRunner.java:614) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.run(TestNG.java:1079) [testng-7.10.2.jar:7.10.2]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91) [testng-remote.jar:?]
+17.54.16.0169 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\Pratham Workspace\OpencartV01\Master.xml"
+17.54.16.0755 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\Pratham Workspace\OpencartV01\Master.xml
+
+17.55.14.0610 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\Pratham Workspace\OpencartV01\Master.xml"
+17.55.15.0142 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\Pratham Workspace\OpencartV01\Master.xml
+
+17.55.15.0261 [main] INFO  testCases.TC004_LoginTest - Properties file loaded successfully
+17.55.15.0262 [main] INFO  testCases.TC004_LoginTest - Setting up browser : 
+17.55.58.0109 [main] INFO  testCases.TC004_LoginTest - TC004_LoginTest verification started
+17.56.05.0527 [main] INFO  testCases.TC004_LoginTest - Home page actions completed
+17.56.07.0555 [main] INFO  testCases.TC004_LoginTest - Login page actions completed
+17.56.07.0637 [main] INFO  testCases.TC004_LoginTest - TC004_LoginTest verification finished
+17.58.00.0703 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\Pratham Workspace\OpencartV01\Master.xml"
+17.58.02.0203 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\Pratham Workspace\OpencartV01\Master.xml
+
+17.58.02.0304 [main] INFO  testCases.TC004_LoginTest - Properties file loaded successfully
+17.58.02.0304 [main] INFO  testCases.TC004_LoginTest - Setting up browser : 
+17.58.24.0819 [main] INFO  testCases.TC004_LoginTest - TC004_LoginTest verification started
+17.58.26.0482 [main] INFO  testCases.TC004_LoginTest - Home page actions completed
+17.58.28.0502 [main] INFO  testCases.TC004_LoginTest - Login page actions completed
+17.58.28.0601 [main] INFO  testCases.TC004_LoginTest - TC004_LoginTest verification finished
+19.41.42.0400 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\Pratham Workspace\OpencartV01\Master.xml"
+19.41.43.0159 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\Pratham Workspace\OpencartV01\Master.xml
+
+19.41.43.0263 [main] INFO  testCases.TC004_LoginTest - Properties file loaded successfully
+19.41.43.0264 [main] INFO  testCases.TC004_LoginTest - Setting up browser : 
+20.22.42.0283 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\Pratham Workspace\OpencartV01\Master.xml"
+20.22.43.0201 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\Pratham Workspace\OpencartV01\Master.xml
+
+20.22.43.0340 [main] INFO  testCases.TC005_LoginTest_DataProvider - Properties file loaded successfully
+20.22.43.0341 [main] INFO  testCases.TC005_LoginTest_DataProvider - Setting up browser : 
+20.24.29.0907 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\Pratham Workspace\OpencartV01\Master.xml"
+20.24.30.0902 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\Pratham Workspace\OpencartV01\Master.xml
+
+20.24.31.0007 [main] INFO  testCases.TC005_LoginTest_DataProvider - Properties file loaded successfully
+20.24.31.0008 [main] INFO  testCases.TC005_LoginTest_DataProvider - Setting up browser : 
+20.26.43.0104 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\Pratham Workspace\OpencartV01\Master.xml"
+20.26.44.0817 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\Pratham Workspace\OpencartV01\Master.xml
+
+20.26.44.0991 [main] INFO  testCases.TC005_LoginTest_DataProvider - Properties file loaded successfully
+20.26.44.0992 [main] INFO  testCases.TC005_LoginTest_DataProvider - Setting up browser : 
+20.27.08.0446 [main] INFO  testCases.TC005_LoginTest_DataProvider - TC005_LoginTest using Data provider verification started
+20.27.36.0058 [main] INFO  testCases.TC005_LoginTest_DataProvider - Home page actions completed
+20.27.36.0283 [main] INFO  testCases.TC005_LoginTest_DataProvider - TC005_LoginTest using Data provider verification started
+20.27.42.0586 [main] INFO  testCases.TC005_LoginTest_DataProvider - Home page actions completed
+20.27.42.0647 [main] INFO  testCases.TC005_LoginTest_DataProvider - TC005_LoginTest using Data provider verification started
+20.27.48.0953 [main] INFO  testCases.TC005_LoginTest_DataProvider - Home page actions completed
+20.27.49.0006 [main] INFO  testCases.TC005_LoginTest_DataProvider - TC005_LoginTest using Data provider verification started
+20.27.54.0968 [main] INFO  testCases.TC005_LoginTest_DataProvider - Home page actions completed
+20.27.55.0032 [main] INFO  testCases.TC005_LoginTest_DataProvider - TC005_LoginTest using Data provider verification started
+20.28.01.0066 [main] INFO  testCases.TC005_LoginTest_DataProvider - Home page actions completed
+20.28.01.0141 [main] INFO  testCases.TC005_LoginTest_DataProvider - TC005_LoginTest using Data provider verification started
+20.28.07.0220 [main] INFO  testCases.TC005_LoginTest_DataProvider - Home page actions completed
+20.28.51.0292 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Admin\AppData\Local\Temp\testng-eclipse-631857842\testng-customsuite.xml"
+20.28.51.0907 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20.28.51.0914 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+20.28.51.0919 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20.28.51.0920 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20.28.51.0924 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20.28.51.0924 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20.28.51.0927 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20.28.51.0930 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20.28.51.0949 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 12 ms.
+20.28.51.0974 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 23 ms.
+20.28.51.0979 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+20.28.51.0981 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+20.28.51.0985 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20.28.51.0986 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20.28.51.0993 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20.28.51.0998 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20.28.52.0005 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20.28.52.0006 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20.28.52.0010 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20.28.52.0012 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20.28.52.0022 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20.28.52.0023 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20.28.52.0024 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20.28.52.0024 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20.28.52.0027 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20.28.52.0029 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20.28.52.0033 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20.28.52.0033 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20.28.52.0034 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20.28.52.0034 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20.28.52.0052 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\AppData\Local\Temp\testng-eclipse-631857842\testng-customsuite.xml
+
+20.28.52.0099 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 14 ms.
+20.28.52.0793 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@60a2630a: 332 ms
+20.28.52.0839 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@62f4ff3b: 45 ms
+20.28.52.0938 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@183e8023: 92 ms
+20.28.52.0974 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@758c83d8: 28 ms
+20.28.53.0024 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@2bb7bd00: 45 ms
+20.28.53.0031 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@5f031ebd: 0 ms
+20.29.16.0612 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Admin\AppData\Local\Temp\testng-eclipse-471063450\testng-customsuite.xml"
+20.29.17.0134 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20.29.17.0144 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+20.29.17.0150 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20.29.17.0150 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20.29.17.0153 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20.29.17.0156 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20.29.17.0164 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20.29.17.0169 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20.29.17.0196 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 13 ms.
+20.29.17.0222 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 25 ms.
+20.29.17.0227 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20.29.17.0229 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20.29.17.0233 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20.29.17.0234 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20.29.17.0237 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20.29.17.0240 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20.29.17.0247 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20.29.17.0249 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20.29.17.0252 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20.29.17.0253 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20.29.17.0261 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20.29.17.0262 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20.29.17.0264 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20.29.17.0265 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20.29.17.0269 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20.29.17.0270 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20.29.17.0275 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20.29.17.0275 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20.29.17.0276 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20.29.17.0277 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20.29.17.0293 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\AppData\Local\Temp\testng-eclipse-471063450\testng-customsuite.xml
+
+20.29.17.0339 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 11 ms.
+20.29.18.0193 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@60a2630a: 324 ms
+20.29.18.0236 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@62f4ff3b: 42 ms
+20.29.18.0325 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@183e8023: 84 ms
+20.29.18.0354 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@758c83d8: 27 ms
+20.29.18.0374 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@2bb7bd00: 18 ms
+20.29.18.0376 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@5f031ebd: 0 ms
+20.30.09.0235 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Admin\AppData\Local\Temp\testng-eclipse--238920864\testng-customsuite.xml"
+20.30.09.0738 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+20.30.09.0746 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+20.30.09.0754 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20.30.09.0755 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20.30.09.0760 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20.30.09.0761 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20.30.09.0770 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20.30.09.0771 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20.30.09.0806 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 17 ms.
+20.30.09.0828 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 21 ms.
+20.30.09.0834 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20.30.09.0836 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20.30.09.0841 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20.30.09.0843 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20.30.09.0845 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20.30.09.0846 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20.30.09.0855 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20.30.09.0856 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20.30.09.0859 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20.30.09.0861 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20.30.09.0868 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20.30.09.0869 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20.30.09.0870 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20.30.09.0870 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20.30.09.0874 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+20.30.09.0876 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20.30.09.0880 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20.30.09.0880 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20.30.09.0882 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20.30.09.0883 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20.30.09.0901 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\AppData\Local\Temp\testng-eclipse--238920864\testng-customsuite.xml
+
+20.30.09.0947 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 9 ms.
+20.30.10.0667 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@4c398c80: 328 ms
+20.30.10.0720 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@58c34bb3: 45 ms
+20.30.10.0776 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@63b1d4fa: 54 ms
+20.30.10.0814 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@4c4d27c8: 31 ms
+20.30.10.0843 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@10993713: 22 ms
+20.30.10.0846 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@58359ebd: 0 ms
+20.31.11.0118 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\Pratham Workspace\OpencartV01\Master.xml"
+20.31.11.0687 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\Pratham Workspace\OpencartV01\Master.xml
+
+20.31.11.0785 [main] INFO  testCases.TC005_LoginTest_DataProvider - Properties file loaded successfully
+20.31.11.0786 [main] INFO  testCases.TC005_LoginTest_DataProvider - Setting up browser : 
+20.31.22.0601 [main] INFO  testCases.TC005_LoginTest_DataProvider - TC005_LoginTest using Data provider verification started
+20.31.37.0555 [main] INFO  testCases.TC005_LoginTest_DataProvider - Home page actions completed
+20.31.41.0564 [main] INFO  testCases.TC005_LoginTest_DataProvider - Login page actions completed
+20.31.42.0164 [main] INFO  testCases.TC005_LoginTest_DataProvider - My acccount page actions completed
+20.31.42.0822 [main] INFO  testCases.TC005_LoginTest_DataProvider - Account logout page actions completed
+20.31.42.0823 [main] INFO  testCases.TC005_LoginTest_DataProvider - TC004_LoginTest verification finished
+20.31.42.0864 [main] INFO  testCases.TC005_LoginTest_DataProvider - TC005_LoginTest using Data provider verification started
+20.31.49.0230 [main] INFO  testCases.TC005_LoginTest_DataProvider - Home page actions completed
+20.31.50.0171 [main] INFO  testCases.TC005_LoginTest_DataProvider - Login page actions completed
+20.32.00.0306 [main] INFO  testCases.TC005_LoginTest_DataProvider - TC005_LoginTest using Data provider verification started
+20.32.06.0575 [main] INFO  testCases.TC005_LoginTest_DataProvider - Home page actions completed
+20.32.07.0019 [main] INFO  testCases.TC005_LoginTest_DataProvider - Login page actions completed
+20.32.17.0468 [main] INFO  testCases.TC005_LoginTest_DataProvider - TC005_LoginTest using Data provider verification started
+20.32.23.0545 [main] INFO  testCases.TC005_LoginTest_DataProvider - Home page actions completed
+20.32.24.0377 [main] INFO  testCases.TC005_LoginTest_DataProvider - Login page actions completed
+20.32.34.0536 [main] INFO  testCases.TC005_LoginTest_DataProvider - TC005_LoginTest using Data provider verification started
+20.32.40.0588 [main] INFO  testCases.TC005_LoginTest_DataProvider - Home page actions completed
+20.32.41.0506 [main] INFO  testCases.TC005_LoginTest_DataProvider - Login page actions completed
+20.32.51.0572 [main] INFO  testCases.TC005_LoginTest_DataProvider - TC005_LoginTest using Data provider verification started
+20.32.57.0923 [main] INFO  testCases.TC005_LoginTest_DataProvider - Home page actions completed
+20.32.58.0359 [main] INFO  testCases.TC005_LoginTest_DataProvider - Login page actions completed
+20.37.01.0445 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\Pratham Workspace\OpencartV01\Master.xml"
+20.37.02.0869 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\Pratham Workspace\OpencartV01\Master.xml
+
+20.37.02.0976 [main] INFO  testCases.TC005_LoginTest_DataProvider - Properties file loaded successfully
+20.37.02.0977 [main] INFO  testCases.TC005_LoginTest_DataProvider - Setting up browser : 
+20.37.34.0587 [main] INFO  testCases.TC005_LoginTest_DataProvider - TC005_LoginTest using Data provider verification started
+20.37.40.0499 [main] INFO  testCases.TC005_LoginTest_DataProvider - Home page actions completed
+20.37.45.0104 [main] INFO  testCases.TC005_LoginTest_DataProvider - Login page actions completed
+20.37.45.0782 [main] INFO  testCases.TC005_LoginTest_DataProvider - My acccount page actions completed
+20.37.46.0328 [main] INFO  testCases.TC005_LoginTest_DataProvider - Account logout page actions completed
+20.37.46.0328 [main] INFO  testCases.TC005_LoginTest_DataProvider - TC004_LoginTest verification finished
+20.37.46.0371 [main] INFO  testCases.TC005_LoginTest_DataProvider - TC005_LoginTest using Data provider verification started
+20.37.47.0056 [main] INFO  testCases.TC005_LoginTest_DataProvider - Home page actions completed
+20.37.47.0959 [main] INFO  testCases.TC005_LoginTest_DataProvider - Login page actions completed
+20.37.58.0106 [main] INFO  testCases.TC005_LoginTest_DataProvider - TC005_LoginTest using Data provider verification started
+20.37.58.0896 [main] INFO  testCases.TC005_LoginTest_DataProvider - Home page actions completed
+20.38.00.0034 [main] INFO  testCases.TC005_LoginTest_DataProvider - Login page actions completed
+20.38.11.0238 [main] INFO  testCases.TC005_LoginTest_DataProvider - TC005_LoginTest using Data provider verification started
+20.38.43.0117 [main] INFO  testCases.TC005_LoginTest_DataProvider - Home page actions completed
+20.38.50.0794 [main] INFO  testCases.TC005_LoginTest_DataProvider - Login page actions completed
+20.39.00.0861 [main] INFO  testCases.TC005_LoginTest_DataProvider - TC005_LoginTest using Data provider verification started
+20.39.01.0444 [main] INFO  testCases.TC005_LoginTest_DataProvider - Home page actions completed
+20.39.01.0868 [main] INFO  testCases.TC005_LoginTest_DataProvider - Login page actions completed
+20.39.11.0914 [main] INFO  testCases.TC005_LoginTest_DataProvider - TC005_LoginTest using Data provider verification started
+20.39.12.0445 [main] INFO  testCases.TC005_LoginTest_DataProvider - Home page actions completed
+20.39.13.0297 [main] INFO  testCases.TC005_LoginTest_DataProvider - Login page actions completed
+20.40.20.0154 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Admin\AppData\Local\Temp\testng-eclipse-197673904\testng-customsuite.xml"
+16.00.33.0029 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\Pratham Workspace\OpencartV01\Grouping.xml"
+16.00.34.0457 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\Pratham Workspace\OpencartV01\Grouping.xml
+
+16.01.37.0944 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\Pratham Workspace\OpencartV01\Grouping.xml"
+16.01.38.0960 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\Pratham Workspace\OpencartV01\Grouping.xml
+
+16.01.39.0315 [main] INFO  testCases.TC002_AccountRegistrationTest_Usingalreadyexistingusercredentials - Properties file loaded successfully
+16.01.39.0320 [main] INFO  testCases.TC002_AccountRegistrationTest_Usingalreadyexistingusercredentials - Setting up browser : 
+16.02.56.0318 [main] INFO  testCases.TC001_AccountRegistrationTest - Properties file loaded successfully
+16.02.56.0318 [main] INFO  testCases.TC001_AccountRegistrationTest - Setting up browser : 
+16.03.09.0426 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** TC001_AccountRegistrationTest execution started ***********
+16.03.09.0638 [main] INFO  testCases.TC001_AccountRegistrationTest - CLICKED ON MY ACCOUNT LINK
+16.03.10.0545 [main] INFO  testCases.TC001_AccountRegistrationTest - CLICKED ON REGISTER LINK
+16.03.10.0551 [main] INFO  testCases.TC001_AccountRegistrationTest - ADDING USER DETAILS
+16.03.12.0936 [main] INFO  testCases.TC001_AccountRegistrationTest - USER DETAILS ADDED
+16.03.12.0938 [main] INFO  testCases.TC001_AccountRegistrationTest - PERFORMING VALIDATION OF ACCOUNT CREATION
+16.03.23.0017 [main] ERROR testCases.TC001_AccountRegistrationTest - test case failed
+16.03.23.0018 [main] DEBUG testCases.TC001_AccountRegistrationTest - debug logs
+16.03.24.0671 [main] INFO  testCases.TC003_AccountRegistrationTest_UsingRandomUserData - Properties file loaded successfully
+16.03.24.0672 [main] INFO  testCases.TC003_AccountRegistrationTest_UsingRandomUserData - Setting up browser : 
+16.06.29.0848 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\Pratham Workspace\OpencartV01\Grouping.xml"
+16.06.30.0872 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\Pratham Workspace\OpencartV01\Grouping.xml
+
+16.06.31.0050 [main] INFO  testCases.TC002_AccountRegistrationTest_Usingalreadyexistingusercredentials - Properties file loaded successfully
+16.06.31.0056 [main] INFO  testCases.TC002_AccountRegistrationTest_Usingalreadyexistingusercredentials - Setting up browser : 
+16.07.04.0091 [main] INFO  testCases.TC001_AccountRegistrationTest - Properties file loaded successfully
+16.07.04.0092 [main] INFO  testCases.TC001_AccountRegistrationTest - Setting up browser : 
+16.07.17.0510 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** TC001_AccountRegistrationTest execution started ***********
+16.07.17.0728 [main] INFO  testCases.TC001_AccountRegistrationTest - CLICKED ON MY ACCOUNT LINK
+16.07.18.0633 [main] INFO  testCases.TC001_AccountRegistrationTest - CLICKED ON REGISTER LINK
+16.07.18.0635 [main] INFO  testCases.TC001_AccountRegistrationTest - ADDING USER DETAILS
+16.07.21.0290 [main] INFO  testCases.TC001_AccountRegistrationTest - USER DETAILS ADDED
+16.07.21.0291 [main] INFO  testCases.TC001_AccountRegistrationTest - PERFORMING VALIDATION OF ACCOUNT CREATION
+16.07.21.0395 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** TC001_AccountRegistrationTest execution finished ***********
+16.07.22.0547 [main] INFO  testCases.TC003_AccountRegistrationTest_UsingRandomUserData - Properties file loaded successfully
+16.07.22.0547 [main] INFO  testCases.TC003_AccountRegistrationTest_UsingRandomUserData - Setting up browser : 
+16.10.55.0607 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\Pratham Workspace\OpencartV01\Grouping.xml"
+16.11.04.0109 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\Pratham Workspace\OpencartV01\Grouping.xml
+
+16.11.04.0290 [main] INFO  testCases.TC005_LoginTest_DataProvider - Properties file loaded successfully
+16.11.04.0290 [main] INFO  testCases.TC005_LoginTest_DataProvider - Setting up browser : 
+16.11.36.0697 [main] INFO  testCases.TC005_LoginTest_DataProvider - TC005_LoginTest using Data provider verification started
+16.11.37.0816 [main] INFO  testCases.TC005_LoginTest_DataProvider - Home page actions completed
+16.11.39.0042 [main] INFO  testCases.TC005_LoginTest_DataProvider - Login page actions completed
+16.11.40.0479 [main] INFO  testCases.TC005_LoginTest_DataProvider - My acccount page actions completed
+16.11.40.0480 [main] INFO  testCases.TC005_LoginTest_DataProvider - Credentials verification started
+16.11.41.0307 [main] INFO  testCases.TC005_LoginTest_DataProvider - Account logout page actions completed
+16.11.41.0307 [main] INFO  testCases.TC005_LoginTest_DataProvider - TC004_LoginTest verification finished
+16.11.41.0326 [main] INFO  testCases.TC005_LoginTest_DataProvider - TC005_LoginTest using Data provider verification started
+16.11.42.0108 [main] INFO  testCases.TC005_LoginTest_DataProvider - Home page actions completed
+16.11.43.0071 [main] INFO  testCases.TC005_LoginTest_DataProvider - Login page actions completed
+16.11.53.0780 [main] INFO  testCases.TC005_LoginTest_DataProvider - TC005_LoginTest using Data provider verification started
+16.11.54.0463 [main] INFO  testCases.TC005_LoginTest_DataProvider - Home page actions completed
+16.11.55.0005 [main] INFO  testCases.TC005_LoginTest_DataProvider - Login page actions completed
+16.12.05.0500 [main] INFO  testCases.TC005_LoginTest_DataProvider - TC005_LoginTest using Data provider verification started
+16.12.06.0171 [main] INFO  testCases.TC005_LoginTest_DataProvider - Home page actions completed
+16.12.06.0723 [main] INFO  testCases.TC005_LoginTest_DataProvider - Login page actions completed
+16.12.17.0248 [main] INFO  testCases.TC005_LoginTest_DataProvider - TC005_LoginTest using Data provider verification started
+16.12.17.0921 [main] INFO  testCases.TC005_LoginTest_DataProvider - Home page actions completed
+16.12.18.0429 [main] INFO  testCases.TC005_LoginTest_DataProvider - Login page actions completed
+16.12.28.0949 [main] INFO  testCases.TC005_LoginTest_DataProvider - TC005_LoginTest using Data provider verification started
+16.12.29.0660 [main] INFO  testCases.TC005_LoginTest_DataProvider - Home page actions completed
+16.12.30.0740 [main] INFO  testCases.TC005_LoginTest_DataProvider - Login page actions completed
+16.13.15.0000 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\Pratham Workspace\OpencartV01\Grouping.xml"
+16.13.16.0480 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\Pratham Workspace\OpencartV01\Grouping.xml
+
+16.13.17.0050 [main] INFO  testCases.TC002_AccountRegistrationTest_Usingalreadyexistingusercredentials - Properties file loaded successfully
+16.13.17.0056 [main] INFO  testCases.TC002_AccountRegistrationTest_Usingalreadyexistingusercredentials - Setting up browser : 
+16.13.48.0872 [main] INFO  testCases.TC001_AccountRegistrationTest - Properties file loaded successfully
+16.13.48.0872 [main] INFO  testCases.TC001_AccountRegistrationTest - Setting up browser : 
+16.14.03.0141 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** TC001_AccountRegistrationTest execution started ***********
+16.14.03.0656 [main] INFO  testCases.TC001_AccountRegistrationTest - CLICKED ON MY ACCOUNT LINK
+16.14.04.0898 [main] INFO  testCases.TC001_AccountRegistrationTest - CLICKED ON REGISTER LINK
+16.14.04.0901 [main] INFO  testCases.TC001_AccountRegistrationTest - ADDING USER DETAILS
+16.14.10.0568 [main] INFO  testCases.TC001_AccountRegistrationTest - USER DETAILS ADDED
+16.14.10.0568 [main] INFO  testCases.TC001_AccountRegistrationTest - PERFORMING VALIDATION OF ACCOUNT CREATION
+16.14.20.0727 [main] ERROR testCases.TC001_AccountRegistrationTest - test case failed
+16.14.20.0728 [main] DEBUG testCases.TC001_AccountRegistrationTest - debug logs
+16.14.21.0512 [main] INFO  testCases.TC004_LoginTest - Properties file loaded successfully
+16.14.21.0512 [main] INFO  testCases.TC004_LoginTest - Setting up browser : 
+16.14.33.0836 [main] INFO  testCases.TC004_LoginTest - TC004_LoginTest verification started
+16.14.34.0660 [main] INFO  testCases.TC004_LoginTest - Home page actions completed
+16.14.35.0830 [main] INFO  testCases.TC004_LoginTest - Login page actions completed
+16.14.35.0905 [main] INFO  testCases.TC004_LoginTest - TC004_LoginTest verification finished
+16.14.36.0738 [main] INFO  testCases.TC005_LoginTest_DataProvider - Properties file loaded successfully
+16.14.36.0738 [main] INFO  testCases.TC005_LoginTest_DataProvider - Setting up browser : 
+16.14.50.0346 [main] INFO  testCases.TC005_LoginTest_DataProvider - TC005_LoginTest using Data provider verification started
+16.14.51.0142 [main] INFO  testCases.TC005_LoginTest_DataProvider - Home page actions completed
+16.14.52.0314 [main] INFO  testCases.TC005_LoginTest_DataProvider - Login page actions completed
+16.14.52.0842 [main] INFO  testCases.TC005_LoginTest_DataProvider - My acccount page actions completed
+16.14.52.0843 [main] INFO  testCases.TC005_LoginTest_DataProvider - Credentials verification started
+16.14.53.0379 [main] INFO  testCases.TC005_LoginTest_DataProvider - Account logout page actions completed
+16.14.53.0380 [main] INFO  testCases.TC005_LoginTest_DataProvider - TC004_LoginTest verification finished
+16.14.53.0390 [main] INFO  testCases.TC005_LoginTest_DataProvider - TC005_LoginTest using Data provider verification started
+16.14.54.0167 [main] INFO  testCases.TC005_LoginTest_DataProvider - Home page actions completed
+16.14.54.0976 [main] INFO  testCases.TC005_LoginTest_DataProvider - Login page actions completed
+16.15.05.0077 [main] INFO  testCases.TC005_LoginTest_DataProvider - TC005_LoginTest using Data provider verification started
+16.15.05.0917 [main] INFO  testCases.TC005_LoginTest_DataProvider - Home page actions completed
+16.15.06.0768 [main] INFO  testCases.TC005_LoginTest_DataProvider - Login page actions completed
+16.15.17.0560 [main] INFO  testCases.TC005_LoginTest_DataProvider - TC005_LoginTest using Data provider verification started
+16.15.18.0952 [main] INFO  testCases.TC005_LoginTest_DataProvider - Home page actions completed
+16.15.19.0543 [main] INFO  testCases.TC005_LoginTest_DataProvider - Login page actions completed
+16.15.30.0082 [main] INFO  testCases.TC005_LoginTest_DataProvider - TC005_LoginTest using Data provider verification started
+16.15.31.0061 [main] INFO  testCases.TC005_LoginTest_DataProvider - Home page actions completed
+16.15.33.0020 [main] INFO  testCases.TC005_LoginTest_DataProvider - Login page actions completed
+16.15.43.0144 [main] INFO  testCases.TC005_LoginTest_DataProvider - TC005_LoginTest using Data provider verification started
+16.15.44.0186 [main] INFO  testCases.TC005_LoginTest_DataProvider - Home page actions completed
+16.15.46.0490 [main] INFO  testCases.TC005_LoginTest_DataProvider - Login page actions completed
+16.15.58.0156 [main] INFO  testCases.TC003_AccountRegistrationTest_UsingRandomUserData - Properties file loaded successfully
+16.15.58.0157 [main] INFO  testCases.TC003_AccountRegistrationTest_UsingRandomUserData - Setting up browser : 
+18.13.32.0768 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\Pratham Workspace\OpencartV01\Grouping.xml"
+18.13.34.0240 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\Pratham Workspace\OpencartV01\Grouping.xml
+
+18.17.02.0740 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\Pratham Workspace\OpencartV01\Grouping.xml"
+18.17.03.0466 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\Pratham Workspace\OpencartV01\Grouping.xml
+
+18.17.04.0503 [main] INFO  testCases.TC002_AccountRegistrationTest_Usingalreadyexistingusercredentials - Properties file loaded successfully
+18.17.04.0503 [main] INFO  testCases.TC002_AccountRegistrationTest_Usingalreadyexistingusercredentials - Setting up browser : 
+18.18.56.0015 [main] INFO  testCases.TC001_AccountRegistrationTest - Properties file loaded successfully
+18.18.56.0015 [main] INFO  testCases.TC001_AccountRegistrationTest - Setting up browser : 
+18.19.11.0509 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\Pratham Workspace\OpencartV01\Grouping.xml"
+18.19.12.0772 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\Pratham Workspace\OpencartV01\Grouping.xml
+
+18.19.14.0440 [main] INFO  testCases.TC002_AccountRegistrationTest_Usingalreadyexistingusercredentials - Properties file loaded successfully
+18.19.14.0441 [main] INFO  testCases.TC002_AccountRegistrationTest_Usingalreadyexistingusercredentials - Setting up browser : 
+18.20.07.0017 [main] INFO  testCases.TC001_AccountRegistrationTest - Properties file loaded successfully
+18.20.07.0019 [main] INFO  testCases.TC001_AccountRegistrationTest - Setting up browser : 
+18.20.21.0800 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** TC001_AccountRegistrationTest execution started ***********
+18.20.22.0274 [main] INFO  testCases.TC001_AccountRegistrationTest - CLICKED ON MY ACCOUNT LINK
+18.20.27.0950 [main] INFO  testCases.TC001_AccountRegistrationTest - CLICKED ON REGISTER LINK
+18.20.27.0956 [main] INFO  testCases.TC001_AccountRegistrationTest - ADDING USER DETAILS
+18.20.36.0057 [main] INFO  testCases.TC001_AccountRegistrationTest - USER DETAILS ADDED
+18.20.36.0059 [main] INFO  testCases.TC001_AccountRegistrationTest - PERFORMING VALIDATION OF ACCOUNT CREATION
+18.20.46.0131 [main] ERROR testCases.TC001_AccountRegistrationTest - test case failed
+18.20.46.0131 [main] DEBUG testCases.TC001_AccountRegistrationTest - debug logs
+18.20.48.0691 [main] INFO  testCases.TC004_LoginTest - Properties file loaded successfully
+18.20.48.0694 [main] INFO  testCases.TC004_LoginTest - Setting up browser : 
+18.21.05.0538 [main] INFO  testCases.TC004_LoginTest - TC004_LoginTest verification started
+18.21.07.0101 [main] INFO  testCases.TC004_LoginTest - Home page actions completed
+18.21.08.0833 [main] INFO  testCases.TC004_LoginTest - Login page actions completed
+18.21.08.0931 [main] INFO  testCases.TC004_LoginTest - TC004_LoginTest verification finished
+18.21.09.0986 [main] INFO  testCases.TC005_LoginTest_DataProvider - Properties file loaded successfully
+18.21.09.0987 [main] INFO  testCases.TC005_LoginTest_DataProvider - Setting up browser : 
+18.21.24.0926 [main] INFO  testCases.TC005_LoginTest_DataProvider - TC005_LoginTest using Data provider verification started
+18.21.26.0335 [main] INFO  testCases.TC005_LoginTest_DataProvider - Home page actions completed
+18.21.27.0839 [main] INFO  testCases.TC005_LoginTest_DataProvider - Login page actions completed
+18.21.28.0761 [main] INFO  testCases.TC005_LoginTest_DataProvider - My acccount page actions completed
+18.21.28.0766 [main] INFO  testCases.TC005_LoginTest_DataProvider - Credentials verification started
+18.21.29.0543 [main] INFO  testCases.TC005_LoginTest_DataProvider - Account logout page actions completed
+18.21.29.0543 [main] INFO  testCases.TC005_LoginTest_DataProvider - TC004_LoginTest verification finished
+18.21.29.0554 [main] INFO  testCases.TC005_LoginTest_DataProvider - TC005_LoginTest using Data provider verification started
+18.21.30.0328 [main] INFO  testCases.TC005_LoginTest_DataProvider - Home page actions completed
+18.21.31.0426 [main] INFO  testCases.TC005_LoginTest_DataProvider - Login page actions completed
+18.21.41.0893 [main] INFO  testCases.TC005_LoginTest_DataProvider - TC005_LoginTest using Data provider verification started
+18.21.42.0542 [main] INFO  testCases.TC005_LoginTest_DataProvider - Home page actions completed
+18.21.43.0731 [main] INFO  testCases.TC005_LoginTest_DataProvider - Login page actions completed
+18.21.53.0979 [main] INFO  testCases.TC005_LoginTest_DataProvider - TC005_LoginTest using Data provider verification started
+18.21.54.0834 [main] INFO  testCases.TC005_LoginTest_DataProvider - Home page actions completed
+18.21.56.0045 [main] INFO  testCases.TC005_LoginTest_DataProvider - Login page actions completed
+18.22.06.0395 [main] INFO  testCases.TC005_LoginTest_DataProvider - TC005_LoginTest using Data provider verification started
+18.22.07.0481 [main] INFO  testCases.TC005_LoginTest_DataProvider - Home page actions completed
+18.22.08.0714 [main] INFO  testCases.TC005_LoginTest_DataProvider - Login page actions completed
+18.22.18.0929 [main] INFO  testCases.TC005_LoginTest_DataProvider - TC005_LoginTest using Data provider verification started
+18.22.19.0543 [main] INFO  testCases.TC005_LoginTest_DataProvider - Home page actions completed
+18.22.20.0062 [main] INFO  testCases.TC005_LoginTest_DataProvider - Login page actions completed
+18.22.31.0757 [main] INFO  testCases.TC003_AccountRegistrationTest_UsingRandomUserData - Properties file loaded successfully
+18.22.31.0758 [main] INFO  testCases.TC003_AccountRegistrationTest_UsingRandomUserData - Setting up browser : 
+18.25.56.0886 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\Pratham Workspace\OpencartV01\Grouping.xml"
+18.25.58.0157 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\Pratham Workspace\OpencartV01\Grouping.xml
+
+18.25.59.0426 [main] INFO  testCases.TC002_AccountRegistrationTest_Usingalreadyexistingusercredentials - Properties file loaded successfully
+18.25.59.0427 [main] INFO  testCases.TC002_AccountRegistrationTest_Usingalreadyexistingusercredentials - Setting up browser : 
+18.26.19.0904 [main] INFO  testCases.TC001_AccountRegistrationTest - Properties file loaded successfully
+18.26.19.0904 [main] INFO  testCases.TC001_AccountRegistrationTest - Setting up browser : 
+18.26.34.0027 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** TC001_AccountRegistrationTest execution started ***********
+18.26.34.0602 [main] INFO  testCases.TC001_AccountRegistrationTest - CLICKED ON MY ACCOUNT LINK
+18.26.35.0860 [main] INFO  testCases.TC001_AccountRegistrationTest - CLICKED ON REGISTER LINK
+18.26.35.0863 [main] INFO  testCases.TC001_AccountRegistrationTest - ADDING USER DETAILS
+18.26.38.0652 [main] INFO  testCases.TC001_AccountRegistrationTest - USER DETAILS ADDED
+18.26.38.0652 [main] INFO  testCases.TC001_AccountRegistrationTest - PERFORMING VALIDATION OF ACCOUNT CREATION
+18.26.48.0754 [main] ERROR testCases.TC001_AccountRegistrationTest - test case failed
+18.26.48.0755 [main] DEBUG testCases.TC001_AccountRegistrationTest - debug logs
+18.26.51.0132 [main] INFO  testCases.TC004_LoginTest - Properties file loaded successfully
+18.26.51.0133 [main] INFO  testCases.TC004_LoginTest - Setting up browser : 
+18.27.05.0457 [main] INFO  testCases.TC004_LoginTest - TC004_LoginTest verification started
+18.27.06.0888 [main] INFO  testCases.TC004_LoginTest - Home page actions completed
+18.27.09.0871 [main] INFO  testCases.TC004_LoginTest - Login page actions completed
+18.27.10.0021 [main] INFO  testCases.TC004_LoginTest - TC004_LoginTest verification finished
+18.27.11.0502 [main] INFO  testCases.TC005_LoginTest_DataProvider - Properties file loaded successfully
+18.27.11.0503 [main] INFO  testCases.TC005_LoginTest_DataProvider - Setting up browser : 
+18.27.27.0691 [main] INFO  testCases.TC005_LoginTest_DataProvider - TC005_LoginTest using Data provider verification started
+18.27.29.0167 [main] INFO  testCases.TC005_LoginTest_DataProvider - Home page actions completed
+18.27.30.0721 [main] INFO  testCases.TC005_LoginTest_DataProvider - Login page actions completed
+18.27.31.0529 [main] INFO  testCases.TC005_LoginTest_DataProvider - My acccount page actions completed
+18.27.31.0530 [main] INFO  testCases.TC005_LoginTest_DataProvider - Credentials verification started
+18.27.32.0295 [main] INFO  testCases.TC005_LoginTest_DataProvider - Account logout page actions completed
+18.27.32.0295 [main] INFO  testCases.TC005_LoginTest_DataProvider - TC004_LoginTest verification finished
+18.27.32.0308 [main] INFO  testCases.TC005_LoginTest_DataProvider - TC005_LoginTest using Data provider verification started
+18.27.33.0148 [main] INFO  testCases.TC005_LoginTest_DataProvider - Home page actions completed
+18.27.34.0636 [main] INFO  testCases.TC005_LoginTest_DataProvider - Login page actions completed
+18.27.44.0874 [main] INFO  testCases.TC005_LoginTest_DataProvider - TC005_LoginTest using Data provider verification started
+18.27.45.0670 [main] INFO  testCases.TC005_LoginTest_DataProvider - Home page actions completed
+18.27.46.0611 [main] INFO  testCases.TC005_LoginTest_DataProvider - Login page actions completed
+18.27.56.0835 [main] INFO  testCases.TC005_LoginTest_DataProvider - TC005_LoginTest using Data provider verification started
+18.27.57.0952 [main] INFO  testCases.TC005_LoginTest_DataProvider - Home page actions completed
+18.27.59.0597 [main] INFO  testCases.TC005_LoginTest_DataProvider - Login page actions completed
+18.28.09.0881 [main] INFO  testCases.TC005_LoginTest_DataProvider - TC005_LoginTest using Data provider verification started
+18.28.10.0675 [main] INFO  testCases.TC005_LoginTest_DataProvider - Home page actions completed
+18.28.11.0978 [main] INFO  testCases.TC005_LoginTest_DataProvider - Login page actions completed
+18.28.22.0218 [main] INFO  testCases.TC005_LoginTest_DataProvider - TC005_LoginTest using Data provider verification started
+18.28.23.0079 [main] INFO  testCases.TC005_LoginTest_DataProvider - Home page actions completed
+18.28.24.0854 [main] INFO  testCases.TC005_LoginTest_DataProvider - Login page actions completed
+18.28.36.0050 [main] INFO  testCases.TC003_AccountRegistrationTest_UsingRandomUserData - Properties file loaded successfully
+18.28.36.0050 [main] INFO  testCases.TC003_AccountRegistrationTest_UsingRandomUserData - Setting up browser : 
+18.05.38.0437 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\Pratham Workspace\OpencartV01\Master.xml"
+18.05.38.0987 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\Pratham Workspace\OpencartV01\Master.xml
+
+18.05.39.0640 [main] INFO  testCases.TC001_AccountRegistrationTest - Properties file loaded successfully
+18.05.39.0722 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** TC001_AccountRegistrationTest execution started ***********
+18.09.27.0314 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\Pratham Workspace\OpencartV01\Master.xml"
+18.09.28.0804 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\Pratham Workspace\OpencartV01\Master.xml
+
+18.09.30.0111 [main] INFO  testCases.TC001_AccountRegistrationTest - Properties file loaded successfully
+18.09.30.0178 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** TC001_AccountRegistrationTest execution started ***********
+18.10.14.0124 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\Pratham Workspace\OpencartV01\Master.xml"
+18.10.14.0714 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\Pratham Workspace\OpencartV01\Master.xml
+
+18.10.15.0222 [main] INFO  testCases.TC001_AccountRegistrationTest - Properties file loaded successfully
+18.10.15.0266 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** TC001_AccountRegistrationTest execution started ***********
+18.16.15.0677 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\Pratham Workspace\OpencartV01\Master.xml"
+18.16.17.0064 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\Pratham Workspace\OpencartV01\Master.xml
+
+18.16.19.0221 [main] INFO  testCases.TC001_AccountRegistrationTest - Properties file loaded successfully
+18.16.19.0222 [main] INFO  testCases.TC001_AccountRegistrationTest - Setting up browser : 
+18.17.32.0321 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\Pratham Workspace\OpencartV01\Master.xml"
+18.17.32.0984 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\Pratham Workspace\OpencartV01\Master.xml
+
+18.17.33.0626 [main] INFO  testCases.TC001_AccountRegistrationTest - Properties file loaded successfully
+18.17.33.0630 [main] INFO  testCases.TC001_AccountRegistrationTest - Setting up OS : 
+18.17.33.0828 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** TC001_AccountRegistrationTest execution started ***********
+18.20.38.0005 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\Pratham Workspace\OpencartV01\Master.xml"
+18.20.38.0590 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\Pratham Workspace\OpencartV01\Master.xml
+
+18.20.39.0149 [main] INFO  testCases.TC001_AccountRegistrationTest - Properties file loaded successfully
+18.20.39.0156 [main] INFO  testCases.TC001_AccountRegistrationTest - Setting up OS : 
+18.20.39.0209 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** TC001_AccountRegistrationTest execution started ***********
+18.24.18.0378 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\Pratham Workspace\OpencartV01\Master.xml"
+18.24.19.0002 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\Pratham Workspace\OpencartV01\Master.xml
+
+18.24.19.0538 [main] INFO  testCases.TC001_AccountRegistrationTest - Properties file loaded successfully
+18.24.19.0560 [main] INFO  testCases.TC001_AccountRegistrationTest - Setting up remote WebDriver with browser: chrome and OS: window
+18.27.45.0803 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\Pratham Workspace\OpencartV01\Master.xml"
+18.27.46.0354 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\Pratham Workspace\OpencartV01\Master.xml
+
+18.27.46.0875 [main] INFO  testCases.TC001_AccountRegistrationTest - Properties file loaded successfully
+18.27.46.0891 [main] INFO  testCases.TC001_AccountRegistrationTest - Setting up remote WebDriver with browser: chrome and OS: window
+18.30.13.0338 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\Pratham Workspace\OpencartV01\Master.xml"
+18.30.14.0180 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\Pratham Workspace\OpencartV01\Master.xml
+
+18.30.15.0102 [main] INFO  testCases.TC001_AccountRegistrationTest - Properties file loaded successfully
+18.30.15.0103 [main] INFO  testCases.TC001_AccountRegistrationTest - Setting up local WebDriver with browser: chrome
+18.34.48.0290 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\Pratham Workspace\OpencartV01\Master.xml"
+18.34.49.0007 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\Pratham Workspace\OpencartV01\Master.xml
+
+18.34.49.0640 [main] INFO  testCases.TC001_AccountRegistrationTest - Properties file loaded successfully
+18.34.49.0640 [main] INFO  testCases.TC001_AccountRegistrationTest - Setting up local WebDriver with browser: chrome
+18.35.33.0949 [main] INFO  testCases.TC001_AccountRegistrationTest - WebDriver setup complete and application launched
+18.35.34.0039 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** TC001_AccountRegistrationTest execution started ***********
+18.35.39.0483 [main] INFO  testCases.TC001_AccountRegistrationTest - CLICKED ON MY ACCOUNT LINK
+18.35.42.0500 [main] INFO  testCases.TC001_AccountRegistrationTest - CLICKED ON REGISTER LINK
+18.35.42.0530 [main] INFO  testCases.TC001_AccountRegistrationTest - ADDING USER DETAILS
+18.35.50.0712 [main] INFO  testCases.TC001_AccountRegistrationTest - USER DETAILS ADDED
+18.35.50.0713 [main] INFO  testCases.TC001_AccountRegistrationTest - PERFORMING VALIDATION OF ACCOUNT CREATION
+18.35.51.0038 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** TC001_AccountRegistrationTest execution finished ***********
+18.35.53.0802 [main] INFO  testCases.TC001_AccountRegistrationTest - WebDriver closed
+18.42.24.0860 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\Pratham Workspace\OpencartV01\Master.xml"
+18.42.25.0388 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\Pratham Workspace\OpencartV01\Master.xml
+
+18.42.25.0914 [main] INFO  testCases.TC001_AccountRegistrationTest - Properties file loaded successfully
+18.42.25.0934 [main] INFO  testCases.TC001_AccountRegistrationTest - Setting up remote WebDriver with browser: chrome and OS: window
+17.50.24.0126 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\Pratham Workspace\OpencartV01\Master.xml"
+17.50.25.0005 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\Pratham Workspace\OpencartV01\Master.xml
+
+17.50.26.0416 [main] INFO  testCases.TC001_AccountRegistrationTest - Properties file loaded successfully
+17.50.26.0417 [main] INFO  testCases.TC001_AccountRegistrationTest - Setting up local WebDriver with browser: chrome
+17.53.49.0990 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\Pratham Workspace\OpencartV01\Master.xml"
+17.53.50.0660 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\Pratham Workspace\OpencartV01\Master.xml
+
+17.53.51.0215 [main] INFO  testCases.TC001_AccountRegistrationTest - Properties file loaded successfully
+17.53.51.0218 [main] INFO  testCases.TC001_AccountRegistrationTest - Setting up local WebDriver with browser: chrome
+17.54.22.0221 [main] INFO  testCases.TC001_AccountRegistrationTest - WebDriver setup complete and application launched
+17.54.22.0288 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** TC001_AccountRegistrationTest execution started ***********
+17.54.24.0410 [main] INFO  testCases.TC001_AccountRegistrationTest - CLICKED ON MY ACCOUNT LINK
+17.54.27.0487 [main] INFO  testCases.TC001_AccountRegistrationTest - CLICKED ON REGISTER LINK
+17.54.27.0514 [main] INFO  testCases.TC001_AccountRegistrationTest - ADDING USER DETAILS
+17.54.31.0689 [main] INFO  testCases.TC001_AccountRegistrationTest - USER DETAILS ADDED
+17.54.31.0690 [main] INFO  testCases.TC001_AccountRegistrationTest - PERFORMING VALIDATION OF ACCOUNT CREATION
+17.54.56.0151 [main] ERROR testCases.TC001_AccountRegistrationTest - test case failed
+17.54.56.0152 [main] DEBUG testCases.TC001_AccountRegistrationTest - debug logs
+17.54.56.0480 [main] INFO  testCases.TC001_AccountRegistrationTest - WebDriver closed
+19.20.57.0076 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\Pratham Workspace\OpencartV01\Master.xml"
+19.20.59.0004 [main] INFO  testCases.TC001_AccountRegistrationTest - Properties file loaded successfully
+19.20.59.0005 [main] INFO  testCases.TC001_AccountRegistrationTest - Setting up local WebDriver with browser: chrome
+19.24.47.0471 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\Pratham Workspace\OpencartV01\Master.xml"
+19.24.48.0882 [main] INFO  testCases.TC001_AccountRegistrationTest - Properties file loaded successfully
+19.24.48.0883 [main] INFO  testCases.TC001_AccountRegistrationTest - Setting up local WebDriver with browser: chrome
+19.25.21.0371 [main] INFO  testCases.TC001_AccountRegistrationTest - WebDriver setup complete and application launched
+19.25.21.0402 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** TC001_AccountRegistrationTest execution started ***********
+19.25.22.0741 [main] INFO  testCases.TC001_AccountRegistrationTest - CLICKED ON MY ACCOUNT LINK
+19.25.24.0990 [main] INFO  testCases.TC001_AccountRegistrationTest - CLICKED ON REGISTER LINK
+19.25.25.0029 [main] INFO  testCases.TC001_AccountRegistrationTest - ADDING USER DETAILS
+19.25.29.0858 [main] INFO  testCases.TC001_AccountRegistrationTest - USER DETAILS ADDED
+19.25.29.0859 [main] INFO  testCases.TC001_AccountRegistrationTest - PERFORMING VALIDATION OF ACCOUNT CREATION
+19.25.39.0903 [main] ERROR testCases.TC001_AccountRegistrationTest - test case failed
+19.25.39.0904 [main] DEBUG testCases.TC001_AccountRegistrationTest - debug logs
+19.25.42.0934 [main] INFO  testCases.TC001_AccountRegistrationTest - WebDriver closed
+19.45.47.0628 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\Pratham Workspace\OpencartV01\Master.xml"
+19.45.49.0729 [main] INFO  testCases.TC001_AccountRegistrationTest - Properties file loaded successfully
+19.45.49.0730 [main] INFO  testCases.TC001_AccountRegistrationTest - Setting up local WebDriver with browser: chrome
+19.49.35.0301 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\Pratham Workspace\OpencartV01\Master.xml"
+19.49.36.0987 [main] INFO  testCases.TC001_AccountRegistrationTest - Properties file loaded successfully
+19.49.36.0988 [main] INFO  testCases.TC001_AccountRegistrationTest - Setting up local WebDriver with browser: chrome
+19.50.04.0336 [main] INFO  testCases.TC001_AccountRegistrationTest - WebDriver setup complete and application launched
+19.50.04.0412 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** TC001_AccountRegistrationTest execution started ***********
+19.50.06.0827 [main] INFO  testCases.TC001_AccountRegistrationTest - CLICKED ON MY ACCOUNT LINK
+19.50.11.0305 [main] INFO  testCases.TC001_AccountRegistrationTest - CLICKED ON REGISTER LINK
+19.50.11.0342 [main] INFO  testCases.TC001_AccountRegistrationTest - ADDING USER DETAILS
+19.50.21.0691 [main] INFO  testCases.TC001_AccountRegistrationTest - USER DETAILS ADDED
+19.50.21.0693 [main] INFO  testCases.TC001_AccountRegistrationTest - PERFORMING VALIDATION OF ACCOUNT CREATION
+19.50.31.0793 [main] ERROR testCases.TC001_AccountRegistrationTest - test case failed
+19.50.31.0793 [main] DEBUG testCases.TC001_AccountRegistrationTest - debug logs
+19.50.33.0709 [main] INFO  testCases.TC001_AccountRegistrationTest - WebDriver closed
+20.04.23.0929 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\Pratham Workspace\OpencartV01\Master.xml"
+20.04.26.0121 [main] INFO  testCases.TC001_AccountRegistrationTest - Properties file loaded successfully
+20.04.26.0122 [main] INFO  testCases.TC001_AccountRegistrationTest - Setting up local WebDriver with browser: chrome
+20.05.27.0777 [main] INFO  testCases.TC001_AccountRegistrationTest - WebDriver setup complete and application launched
+20.05.27.0908 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** TC001_AccountRegistrationTest execution started ***********
+20.05.30.0903 [main] INFO  testCases.TC001_AccountRegistrationTest - CLICKED ON MY ACCOUNT LINK
+20.05.35.0816 [main] INFO  testCases.TC001_AccountRegistrationTest - CLICKED ON REGISTER LINK
+20.05.35.0876 [main] INFO  testCases.TC001_AccountRegistrationTest - ADDING USER DETAILS
+20.05.44.0382 [main] INFO  testCases.TC001_AccountRegistrationTest - USER DETAILS ADDED
+20.05.44.0383 [main] INFO  testCases.TC001_AccountRegistrationTest - PERFORMING VALIDATION OF ACCOUNT CREATION
+20.05.54.0484 [main] ERROR testCases.TC001_AccountRegistrationTest - test case failed
+20.05.54.0485 [main] DEBUG testCases.TC001_AccountRegistrationTest - debug logs
+20.05.56.0825 [main] INFO  testCases.TC001_AccountRegistrationTest - WebDriver closed
