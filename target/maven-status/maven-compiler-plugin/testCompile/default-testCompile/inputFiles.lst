@@ -10,4 +10,5 @@ C:\Automation\Pratham Workspace\OpencartV01\src\test\java\testCases\TC002_Accoun
 C:\Automation\Pratham Workspace\OpencartV01\src\test\java\testCases\TC003_AccountRegistrationTest_UsingRandomUserData.java
 C:\Automation\Pratham Workspace\OpencartV01\src\test\java\testCases\TC004_LoginTest.java
 C:\Automation\Pratham Workspace\OpencartV01\src\test\java\testCases\TC005_LoginTest_DataProvider.java
+C:\Automation\Pratham Workspace\OpencartV01\src\test\java\testCases\TC006_LogoutTest.java
 C:\Automation\Pratham Workspace\OpencartV01\src\test\java\utilities\ExtentReportManager.java
