@@ -820,3 +820,6 @@ java.lang.NullPointerException: Cannot invoke "java.util.Properties.getProperty(
 20.05.54.0484 [main] ERROR testCases.TC001_AccountRegistrationTest - test case failed
 20.05.54.0485 [main] DEBUG testCases.TC001_AccountRegistrationTest - debug logs
 20.05.56.0825 [main] INFO  testCases.TC001_AccountRegistrationTest - WebDriver closed
+16.31.02.0240 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\Pratham Workspace\OpencartV01\Master.xml"
+16.31.14.0295 [main] INFO  testCases.TC001_AccountRegistrationTest - Properties file loaded successfully
+16.31.14.0296 [main] INFO  testCases.TC001_AccountRegistrationTest - Setting up local WebDriver with browser: chrome
