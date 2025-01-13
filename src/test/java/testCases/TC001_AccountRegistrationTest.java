@@ -25,7 +25,7 @@ public class TC001_AccountRegistrationTest extends BaseClass
 		logger.info("ADDING USER DETAILS");
 		rap.setAccountregistrationpage_firstname("Pratham");
 		rap.setAccountregistrationpage_lastname("Kale");
-		rap.setAccountregistrationpage_email("prathamkale400@gmail.com");
+		rap.setAccountregistrationpage_email("prathamkale500@gmail.com");
 		rap.setAccountregistration_inputtelephone("9768476799");
 		rap.setAccountregistrationpage_password01("prathamkale10@gmail.com");
 		rap.setAccountregistrationpage_password02("prathamkale10@gmail.com");

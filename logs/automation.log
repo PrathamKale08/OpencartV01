@@ -823,3 +823,34 @@ java.lang.NullPointerException: Cannot invoke "java.util.Properties.getProperty(
 16.31.02.0240 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\Pratham Workspace\OpencartV01\Master.xml"
 16.31.14.0295 [main] INFO  testCases.TC001_AccountRegistrationTest - Properties file loaded successfully
 16.31.14.0296 [main] INFO  testCases.TC001_AccountRegistrationTest - Setting up local WebDriver with browser: chrome
+16.48.27.0278 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\Pratham Workspace\OpencartV01\Master.xml"
+16.48.36.0473 [main] INFO  testCases.TC001_AccountRegistrationTest - Properties file loaded successfully
+16.48.36.0473 [main] INFO  testCases.TC001_AccountRegistrationTest - Setting up local WebDriver with browser: chrome
+16.52.39.0207 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\Pratham Workspace\OpencartV01\Master.xml"
+16.52.42.0073 [main] INFO  testCases.TC001_AccountRegistrationTest - Properties file loaded successfully
+16.52.42.0074 [main] INFO  testCases.TC001_AccountRegistrationTest - Setting up local WebDriver with browser: chrome
+16.56.09.0903 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\Pratham Workspace\OpencartV01\Master.xml"
+16.56.12.0204 [main] INFO  testCases.TC001_AccountRegistrationTest - Properties file loaded successfully
+16.56.12.0205 [main] INFO  testCases.TC001_AccountRegistrationTest - Setting up local WebDriver with browser: chrome
+16.57.08.0538 [main] INFO  testCases.TC001_AccountRegistrationTest - WebDriver setup complete and application launched
+16.57.08.0713 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** TC001_AccountRegistrationTest execution started ***********
+16.57.13.0321 [main] INFO  testCases.TC001_AccountRegistrationTest - CLICKED ON MY ACCOUNT LINK
+16.57.16.0506 [main] INFO  testCases.TC001_AccountRegistrationTest - CLICKED ON REGISTER LINK
+16.57.16.0584 [main] INFO  testCases.TC001_AccountRegistrationTest - ADDING USER DETAILS
+16.57.24.0894 [main] INFO  testCases.TC001_AccountRegistrationTest - USER DETAILS ADDED
+16.57.24.0898 [main] INFO  testCases.TC001_AccountRegistrationTest - PERFORMING VALIDATION OF ACCOUNT CREATION
+16.57.26.0260 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** TC001_AccountRegistrationTest execution finished ***********
+16.57.28.0817 [main] INFO  testCases.TC001_AccountRegistrationTest - WebDriver closed
+16.58.35.0663 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\Pratham Workspace\OpencartV01\Master.xml"
+16.58.38.0757 [main] INFO  testCases.TC001_AccountRegistrationTest - Properties file loaded successfully
+16.58.38.0758 [main] INFO  testCases.TC001_AccountRegistrationTest - Setting up local WebDriver with browser: chrome
+17.00.28.0948 [main] INFO  testCases.TC001_AccountRegistrationTest - WebDriver setup complete and application launched
+17.00.29.0027 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** TC001_AccountRegistrationTest execution started ***********
+17.00.31.0869 [main] INFO  testCases.TC001_AccountRegistrationTest - CLICKED ON MY ACCOUNT LINK
+17.00.34.0590 [main] INFO  testCases.TC001_AccountRegistrationTest - CLICKED ON REGISTER LINK
+17.00.34.0624 [main] INFO  testCases.TC001_AccountRegistrationTest - ADDING USER DETAILS
+17.00.41.0797 [main] INFO  testCases.TC001_AccountRegistrationTest - USER DETAILS ADDED
+17.00.41.0798 [main] INFO  testCases.TC001_AccountRegistrationTest - PERFORMING VALIDATION OF ACCOUNT CREATION
+17.00.51.0921 [main] ERROR testCases.TC001_AccountRegistrationTest - test case failed
+17.00.51.0921 [main] DEBUG testCases.TC001_AccountRegistrationTest - debug logs
+17.01.03.0641 [main] INFO  testCases.TC001_AccountRegistrationTest - WebDriver closed
